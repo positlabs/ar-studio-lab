@@ -1,0 +1,20 @@
+{
+  "name": "ar-studio-lab",
+  "version": "1.0.0",
+  "description": "Experiments in AR Studio",
+  "main": "index.js",
+  "scripts": {
+    "serve": "budo --dir docs/ --live --port 3333",
+    "localtunnel": "lt --port 3333 --subdomain arstudiolab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/positlabs/ar-studio-lab.git"
+  },
+  "author": "Josh Beckwith <josh@positlabs.com> (https://github.com/positlabs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/positlabs/ar-studio-lab/issues"
+  },
+  "homepage": "https://github.com/positlabs/ar-studio-lab#readme"
+}
