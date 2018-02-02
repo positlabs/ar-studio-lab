@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/positlabs/ar-studio-lab/issues"
   },
-  "homepage": "https://github.com/positlabs/ar-studio-lab#readme"
+  "homepage": "https://github.com/positlabs/ar-studio-lab#readme",
+  "devDependencies": {
+    "budo": "^11.0.1",
+    "localtunnel": "^1.8.3"
+  }
 }
